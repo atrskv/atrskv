@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://rsshub.app/telegram/channel/torsukov"
           commit_message: "Update with the latest blog posts"
+          max_post_count: "3"
