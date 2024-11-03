@@ -2,7 +2,7 @@
 
 [![Profile badge](https://www.codewars.com/users/atrskv/badges/micro)](https://www.codewars.com/users/atrskv)
 
-### Посты в tg
+### <img title="Jenkins" src="resources/telegram-icon.png" height="15" width="15"/> Последние посты:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
